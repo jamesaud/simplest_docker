@@ -1,1 +1,1 @@
-from Alpine:latest
+from alpine:latest
